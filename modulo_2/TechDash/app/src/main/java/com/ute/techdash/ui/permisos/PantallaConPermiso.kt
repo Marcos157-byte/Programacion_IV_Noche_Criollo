@@ -1,4 +1,4 @@
-package com.ute.techdash.permisos
+package com.ute.techdash.ui.permisos
 
 import android.content.pm.PackageManager
 import androidx.activity.compose.rememberLauncherForActivityResult
