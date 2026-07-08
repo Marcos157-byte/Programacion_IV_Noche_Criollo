@@ -97,13 +97,21 @@ final routerProvider = Provider<GoRouter>((ref) {
         ),
       ),
       GoRoute(
-  path:    '/admin/categories',
-  builder: (_, state) => AdminShell(
-    title:        'Categorías',
-    currentRoute: state.matchedLocation,
-    child:        const CategoriesAdminScreen(),
-  ),
-),
+        path:    '/admin/categories',
+        builder: (_, state) => AdminShell(
+            title:        'Categorías',
+            currentRoute: state.matchedLocation,
+            child:        const CategoriesAdminScreen(),
+        ),
+        ),
+        GoRoute(
+        path:    '/admin/products',
+        builder: (_, state) => AdminShell(
+            title:        'Productos',
+            currentRoute: state.matchedLocation,
+            child:        const ProductsAdminScreen(),
+        ),
+        ),
 
       // ── Admin ─────────────────────────────────────────────
       GoRoute(path: '/admin',              builder: (_, __) => const _PlaceholderScreen('Dashboard — M8')),
