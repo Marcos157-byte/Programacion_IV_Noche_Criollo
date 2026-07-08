@@ -11,6 +11,10 @@ import '../screens/catalog/catalog_screen.dart';
 import '../screens/catalog/home_screen.dart';
 import 'public_shell.dart';
 
+import '../screens/orders/orders_screen.dart';
+import '../screens/orders/order_detail_screen.dart';
+import '../screens/auth/profile_screen.dart';
+
 class _PlaceholderScreen extends ConsumerWidget {
   final String title;
   const _PlaceholderScreen(this.title);
@@ -77,6 +81,20 @@ final routerProvider = Provider<GoRouter>((ref) {
           GoRoute(path: '/orders/:id', builder: (_, s) => _PlaceholderScreen('Pedido #${s.pathParameters['id']} — M6')),
           GoRoute(path: '/profile', builder: (_, __) => const _PlaceholderScreen('Perfil — M6')),
         ],
+        GoRoute(
+        path: '/orders',
+        builder: (_, __) => const OrdersScreen(),
+        ),
+        GoRoute(
+        path: '/orders/:id',
+        builder: (_, s) => OrderDetailScreen(
+            orderId: int.parse(s.pathParameters['id']!),
+        ),
+        ),
+        GoRoute(
+        path: '/profile',
+        builder: (_, __) => const ProfileScreen(),
+        ),
       ),
 
       // ── Admin ─────────────────────────────────────────────
