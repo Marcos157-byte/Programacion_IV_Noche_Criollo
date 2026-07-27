@@ -6,4 +6,3 @@ fun main() {
     val (t, a, p) = libro
     println("Título: $t, Autor: $a, Páginas: $p")
 }
-\n// Nombre del ejercicio: Desestructuraci�n de data class Libro

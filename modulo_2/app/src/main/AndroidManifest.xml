@@ -20,6 +20,21 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Paso01suma"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityContador"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTTS"
+            android:exported="false" />
+        <activity
+            android:name=".S04Layaut"
+            android:exported="false" />
+        <activity
+            android:name="com.ute.tts.MainActivityHelloWorld"
+            android:exported="false" />
     </application>
 
 </manifest>

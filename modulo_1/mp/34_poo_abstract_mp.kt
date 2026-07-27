@@ -11,4 +11,3 @@ fun main() {
     val t = Triangulo(6.0, 4.0)
     println("Área triángulo: ${t.area()}")
 }
-\n// Nombre del ejercicio: Clase abstracta Figura y Triangulo

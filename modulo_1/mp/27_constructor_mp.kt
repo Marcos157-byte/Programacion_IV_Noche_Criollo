@@ -9,4 +9,3 @@ fun main() {
     val r2 = Rectangulo(3.0)
     println("Area r1=${r1.area()}, r2=${r2.area()}")
 }
-\n// Nombre del ejercicio: Constructores primario y secundario

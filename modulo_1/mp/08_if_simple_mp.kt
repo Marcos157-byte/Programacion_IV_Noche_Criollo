@@ -8,4 +8,3 @@ fun main() {
         println("No puede votar aÃºn")
     }
 }
-\n// Nombre del ejercicio: Validación de mayoría de edad para voto

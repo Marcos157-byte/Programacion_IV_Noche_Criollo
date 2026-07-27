@@ -5,4 +5,3 @@ fun main() {
         println("$producto → $precio EUR")
     }
 }
-\n// Nombre del ejercicio: Map de productos y precios

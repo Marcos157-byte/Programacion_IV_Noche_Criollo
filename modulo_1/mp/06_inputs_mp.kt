@@ -8,4 +8,3 @@ fun main() {
 
     println("Hola $nombre, tienes $edad años.")
 }
-\n// Nombre del ejercicio: Entrada de nombre y edad desde consola

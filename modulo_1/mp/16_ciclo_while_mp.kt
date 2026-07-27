@@ -7,4 +7,3 @@ fun main() {
     }
     println("¡Despegue!")
 }
-\n// Nombre del ejercicio: Cuenta regresiva con while

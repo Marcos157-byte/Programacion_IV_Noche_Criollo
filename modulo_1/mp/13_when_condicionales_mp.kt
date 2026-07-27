@@ -10,4 +10,3 @@ fun main() {
     }
     println("Edad $edad → $grupo")
 }
-\n// Nombre del ejercicio: Grupos de edad con when rangos

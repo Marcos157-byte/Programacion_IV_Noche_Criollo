@@ -12,4 +12,3 @@ fun main() {
     p.cambiarNombre("")
     println(p.obtenerNombre())
 }
-\n// Nombre del ejercicio: Persona con validación en setter

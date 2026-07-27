@@ -15,4 +15,3 @@ fun main() {
     e.decirHola("Luis")
     e.despedida()
 }
-\n// Nombre del ejercicio: Interfaz con método por defecto

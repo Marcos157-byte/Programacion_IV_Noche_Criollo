@@ -5,4 +5,3 @@ fun main() {
     val r = 3.0
     println("Ãrea del cÃ­rculo de radio $r = ${areaCirculo(r)}")
 }
-\n// Nombre del ejercicio: Función para área de círculo

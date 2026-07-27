@@ -7,4 +7,3 @@ fun main() {
     println("Productos: $inventario")
     println("Stock total: $total")
 }
-\n// Nombre del ejercicio: Inventario y stock total

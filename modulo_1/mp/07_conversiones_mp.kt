@@ -9,4 +9,3 @@ fun main() {
     println("Como Int (truncado): $entero")
     println("Como cadena nuevamente: ${entero.toString()}")
 }
-\n// Nombre del ejercicio: Conversiones numéricas y cadena

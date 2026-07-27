@@ -12,4 +12,3 @@ fun main() {
         println("No aplica descuento")
     }
 }
-\n// Nombre del ejercicio: Descuento con operadores lógicos

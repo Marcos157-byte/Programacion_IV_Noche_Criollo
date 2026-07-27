@@ -3,4 +3,3 @@ fun main() {
     val frutas = setOf("manzana", "pera", "naranja", "manzana")
     println("Frutas Ãºnicas: $frutas")
 }
-\n// Nombre del ejercicio: Uso de Set para elementos únicos

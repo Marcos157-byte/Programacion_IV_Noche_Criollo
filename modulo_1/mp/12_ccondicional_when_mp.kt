@@ -18,4 +18,3 @@ fun main() {
     }
     println("Mes $mes: $nombre")
 }
-\n// Nombre del ejercicio: Mes a nombre con when

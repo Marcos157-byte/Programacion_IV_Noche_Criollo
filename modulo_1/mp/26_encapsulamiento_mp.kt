@@ -11,4 +11,3 @@ fun main() {
     t.setCelsius(-300.0) // invÃ¡lido
     println("Temperatura: ${t.getCelsius()}Â°C")
 }
-\n// Nombre del ejercicio: Temperatura con validación física

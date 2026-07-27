@@ -7,4 +7,3 @@ fun main() {
     println(u1)
     println(u2)
 }
-\n// Nombre del ejercicio: Data class Usuario y copy

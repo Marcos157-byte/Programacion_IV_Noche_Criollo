@@ -6,4 +6,3 @@ fun main() {
     else if (nota >= 60) println("Suficiente")
     else println("Insuficiente")
 }
-\n// Nombre del ejercicio: Clasificación de notas

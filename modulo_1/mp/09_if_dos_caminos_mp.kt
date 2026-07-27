@@ -7,4 +7,3 @@ fun main() {
         println("Hace calor o estÃ¡ templado")
     }
 }
-\n// Nombre del ejercicio: Temperatura fría o cálida

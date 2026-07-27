@@ -18,4 +18,3 @@ fun main() {
     val c = C()
     c.saludo() // Imprime "Hola desde B"
 }
-\n// Nombre del ejercicio: Conflicto de interfaces A y B

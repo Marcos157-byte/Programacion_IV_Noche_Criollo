@@ -11,4 +11,3 @@ fun main() {
     val c = Coche("Toyota", 4)
     println(c.descripcion())
 }
-\n// Nombre del ejercicio: Herencia Vehiculo -> Coche

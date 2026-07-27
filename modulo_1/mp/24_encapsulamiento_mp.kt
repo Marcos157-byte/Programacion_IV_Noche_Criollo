@@ -18,4 +18,3 @@ fun main() {
     val ok = cuenta.retirar(30.0)
     println("Retiro ok: $ok, saldo actual: ${cuenta.obtenerSaldo()}")
 }
-\n// Nombre del ejercicio: Cuenta bancaria con encapsulamiento

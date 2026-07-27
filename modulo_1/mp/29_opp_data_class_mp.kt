@@ -6,4 +6,3 @@ fun main() {
     val distancia = Math.hypot(p.x, p.y)
     println("Punto: $p, distancia al origen: $distancia")
 }
-\n// Nombre del ejercicio: Data class Punto y distancia

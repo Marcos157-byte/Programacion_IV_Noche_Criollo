@@ -7,4 +7,3 @@ fun main() {
     }
     println("Suma = $suma")
 }
-\n// Nombre del ejercicio: Suma de lista con ciclo for

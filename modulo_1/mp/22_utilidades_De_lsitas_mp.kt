@@ -8,4 +8,3 @@ fun main() {
     println("Cuadrados: $cuadrados")
     println("Suma de cuadrados: $suma")
 }
-\n// Nombre del ejercicio: Operaciones funcionales en listas

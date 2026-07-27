@@ -11,4 +11,3 @@ fun main() {
         else println("Sobrepeso u obesidad")
     }
 }
-\n// Nombre del ejercicio: Clasificación de IMC con if anidados

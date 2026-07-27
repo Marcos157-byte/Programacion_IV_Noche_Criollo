@@ -15,4 +15,3 @@ fun main() {
     }
     println("Ãrea de $figura = $resultado")
 }
-\n// Nombre del ejercicio: Área de figura con when y bloques

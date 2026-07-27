@@ -11,4 +11,3 @@ fun main() {
     val b: Conducible = Bicicleta()
     b.conducir()
 }
-\n// Nombre del ejercicio: Interfaz Conducible y Bicicleta

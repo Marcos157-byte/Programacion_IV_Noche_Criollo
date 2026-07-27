@@ -9,4 +9,3 @@ fun main() {
     }
     println("Intentos: $intentos, éxito: $exito")
 }
-\n// Nombre del ejercicio: Intentos repetidos con repeat
